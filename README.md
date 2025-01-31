@@ -1,0 +1,2 @@
+# Incorrect Array Slice Assignment in Ada
+This example demonstrates a common error in Ada programming involving array slices.  The code attempts to assign a slice of an array to another array, but it fails to handle the type correctly. The solution demonstrates the appropriate way to assign array slices in Ada.  This is a subtle error that can lead to unexpected runtime behaviour.
